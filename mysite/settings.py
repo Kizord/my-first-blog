@@ -25,7 +25,7 @@ SECRET_KEY = 'tiiarvn*%1gko@mkvz94e1@398cp(_f87ch@rt$p+m4+3%gu4#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'djangokizord.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
